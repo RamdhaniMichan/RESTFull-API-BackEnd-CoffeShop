@@ -2,7 +2,7 @@
 ### Built With
 - Node JS
 - PostgreSQL
-### Tools Suport
+### Tools Support
 - Eslint
 - Body-Parse
 - Node-pg
